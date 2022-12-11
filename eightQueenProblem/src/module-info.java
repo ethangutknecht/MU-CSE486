@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Gutkn
+ *
+ */
+module eightQueenProblem {
+}
